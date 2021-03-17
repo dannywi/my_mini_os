@@ -1,5 +1,5 @@
 # SUMMARY
-Mini OS experiment. Runs on QEMU, build on Docker.
+Mini OS experiment. Runs on QEMU, builds on Docker.
 
 
 # NOTES
